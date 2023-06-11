@@ -5,7 +5,14 @@ TODO:
 - Iteratively Update Client with Command Line Options
 - Blow up smtp3.py with more code
 - payload as attatchment
- 
+
+PREREQUISITES
+------------------------------
+Linux
+Python
+Wireshark
+        https://askubuntu.com/questions/700712/how-to-install-wireshark
+        
 run in two seperate terminal sessions
 
   terminal1 
