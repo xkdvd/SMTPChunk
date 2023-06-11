@@ -1,6 +1,6 @@
 # SMTPChunk
 SMTP Server and Command Line Client 
-TODO: 
+TODO: test alternate smtp server in winodws 110702
 
 - Iteratively Update Client with Command Line Options
 - Blow up smtp3.py with more code
@@ -8,7 +8,6 @@ TODO:
 
 PREREQUISITES
 ------------------------------
-- Linux
 - Python3
 - Wireshark
         https://askubuntu.com/questions/700712/how-to-install-wireshark
@@ -18,12 +17,14 @@ DIRECTIONS
 ------------------------------
 run in two seperate terminal sessions
 
-  terminal1 
+  terminal_1 
   (server)
   
-  sudo python3 ./smtpd_server.py
+  sudo python -m smtpd -c DebuggingServer -n 127.0.0.1:80 (linux)
+  python -m smtpd -c DebuggingServer -n 127.0.0.1:80 (windows)
 
-  terminal2 
+  terminal_2 
   (client)
   
   python3 ./smtp3.py
+  
