@@ -3,7 +3,6 @@ SMTP Server and Command Line Client
 TODO: test alternate smtp server in winodws 110702
 
 - Iteratively Update Client with Command Line Options
-- Blow up smtp3.py with more code
 - payload as attatchment
 
 PREREQUISITES
