@@ -1,6 +1,7 @@
 # SMTPChunk
 SMTP Server and Command Line Client 
 - Blowing up nothing with something
+- TODO: Iteratively Update Client with Command Line Options
 
 run in two seperate terminal sessions
 
