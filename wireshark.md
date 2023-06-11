@@ -1,3 +1,12 @@
+1.) install wireshark
+
+sudo apt-get install wireshark
+
+2.) Run wireshark:
+
+sudo wireshark
+
+
 
 //WIRESHARK NOTES
 https://resources.infosecinstitute.com/topic/simple-mail-transfer-protocol-smtp-with-wireshark/
