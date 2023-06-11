@@ -1,5 +1,5 @@
 # SMTPChunk
-SMTP Server and Command Line Client
+SMTP Server and Command Line Client - Blowing up the sunshine.
 
 run in two seperate terminal sessions
 
