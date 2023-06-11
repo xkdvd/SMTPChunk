@@ -1,11 +1,12 @@
-1.) install wireshark
-
-sudo apt-get install wireshark
-
+from command line
+0.) if not done, then install wireshark
+    sudo apt-get install wireshark
+1.) run smtp server 
+ 
 2.) Run wireshark:
 
 sudo wireshark
-
+3.) run smtp_client.py
 
 
 //WIRESHARK NOTES
