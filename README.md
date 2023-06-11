@@ -20,8 +20,8 @@ run in two seperate terminal sessions
   terminal_1 
   (server)
   
-  sudo python -m smtpd -c DebuggingServer -n 127.0.0.1:80 (linux)
-  python -m smtpd -c DebuggingServer -n 127.0.0.1:80 (windows)
+  sudo python -m smtpd -c DebuggingServer -n 127.0.0.1:25 (linux)
+  python -m smtpd -c DebuggingServer -n 127.0.0.1:25 (windows)
 
   terminal_2 
   (client)
