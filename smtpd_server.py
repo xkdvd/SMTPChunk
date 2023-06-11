@@ -10,6 +10,6 @@ class CustomSMTPServer(smtpd.SMTPServer):
         print ('Message length        :', len(data))
         return
 
-server = CustomSMTPServer(('127.0.0.1', 80), None)
+server = CustomSMTPServer(('127.0.0.1', 25), None)
 
 asyncore.loop()
