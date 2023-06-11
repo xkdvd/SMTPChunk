@@ -3,11 +3,11 @@ from command line
     sudo apt-get install wireshark
 1.) run smtp server 
  
-2.) Run wireshark:
+2.) Run wireshark, select network adapter and begin capturing packets.
 
 sudo wireshark
 3.) run smtp_client.py
-
+4.) stop packet capture
 
 //WIRESHARK NOTES
 https://resources.infosecinstitute.com/topic/simple-mail-transfer-protocol-smtp-with-wireshark/
