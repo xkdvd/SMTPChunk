@@ -12,7 +12,10 @@ Linux
 Python3
 Wireshark
         https://askubuntu.com/questions/700712/how-to-install-wireshark
-        
+
+
+DIRECTIONS
+------------------------------
 run in two seperate terminal sessions
 
   terminal1 
