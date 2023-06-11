@@ -26,5 +26,5 @@ run in two seperate terminal sessions
   terminal_2 
   (client)
   
-  python3 ./smtp3.py
+  python3 ./smtp_client.py
   
