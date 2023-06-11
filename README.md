@@ -1,6 +1,6 @@
 # SMTPChunk
 SMTP Server and Command Line Client 
-TODO: test alternate smtp server in winodws 110702
+TODO: test alternate smtp server in winodws
 
 - Iteratively Update Client with Command Line Options
 - payload as attatchment
