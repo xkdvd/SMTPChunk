@@ -9,4 +9,6 @@ run in two seperate terminal sessions
 
   terminal2 
   (client - uses server to send a test email and creates network data packets for wireshark)
+  
+  
   sudo python3 ./smtp3.py
