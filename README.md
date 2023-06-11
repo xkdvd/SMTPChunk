@@ -8,9 +8,9 @@ TODO:
 
 PREREQUISITES
 ------------------------------
-Linux
-Python3
-Wireshark
+- Linux
+- Python3
+- Wireshark
         https://askubuntu.com/questions/700712/how-to-install-wireshark
 
 
