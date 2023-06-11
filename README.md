@@ -19,8 +19,9 @@ run in two seperate terminal sessions
   terminal_1 
   (server)
   
-  sudo python -m smtpd -c DebuggingServer -n 127.0.0.1:25 (linux)
-  python -m smtpd -c DebuggingServer -n 127.0.0.1:25 (windows)
+  python -m smtpd -c DebuggingServer -n 127.0.0.1:25 
+  (sudo / su for linux)
+  
 
   terminal_2 
   (client)
