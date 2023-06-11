@@ -1,7 +1,8 @@
 # SMTPChunk
 SMTP Server and Command Line Client 
 TODO: 
--Iteratively Update Client with Command Line Options
+
+- Iteratively Update Client with Command Line Options
 - Blow up smtp3.py with more code
  
 run in two seperate terminal sessions
