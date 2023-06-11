@@ -4,6 +4,7 @@ TODO:
 
 - Iteratively Update Client with Command Line Options
 - Blow up smtp3.py with more code
+- payload as attatchment
  
 run in two seperate terminal sessions
 
